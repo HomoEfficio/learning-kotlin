@@ -56,7 +56,7 @@
       <file leaf-file-name="004-extension-function.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/004-extension-function.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
+            <state relative-caret-position="95">
               <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
               <folding />
             </state>
@@ -71,6 +71,9 @@
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -92,6 +95,7 @@
         <option value="$PROJECT_DIR$/src/null-safety.kt" />
         <option value="$PROJECT_DIR$/src/is-operator.kt" />
         <option value="$PROJECT_DIR$/src/extension-function.kt" />
+        <option value="$PROJECT_DIR$/src/004-extension-function.kt" />
       </list>
     </option>
   </component>
@@ -173,7 +177,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../dmp" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -691,12 +695,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1467723422966</updated>
-      <workItem from="1467723427137" duration="867000" />
+      <workItem from="1467723427137" duration="1133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="867000" />
+    <option name="totallyTimeSpent" value="1133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="326" y="43" width="1280" height="728" extended-state="0" />
@@ -769,7 +773,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/004-extension-function.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
+        <state relative-caret-position="95">
           <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
           <folding />
         </state>
