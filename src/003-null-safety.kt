@@ -47,6 +47,15 @@ fun main(args: Array<String>) {
         // null.toString() 은 문자열 "null" 을 반환한다.
         println("""null.toString() equals "null" : ${"null".equals(null.toString())}""")
 
+        // if-not-null-block
+        var nullable: String? = null
+        nullable?.let {
+            println("Null, so not printed out")
+        }
+        nullable = "abc"
+        nullable?.let {
+            println("NotNull, so printed out")
+        }
     }
     nullSafety()
 }
